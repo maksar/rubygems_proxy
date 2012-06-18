@@ -4,3 +4,5 @@ restart.txt
 public/gems
 public/quick
 *.gz
+.powrc
+.rvmrc
